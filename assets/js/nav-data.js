@@ -6046,6 +6046,15 @@ window.SITE_DATA = {
    "color": "#FFB347",
    "children": [ {"title": "Bug Bounty Master Guide", "slug": "bug-bounty-master-guide", "type": "page", "tag": "TAG-BB01", "contentPath": "content/pentesting-web/bug-bounty-master-guide.md", "hasContent": true, "children": []},
     {
+     "title": "Authentication Bypass & Session Management",
+     "slug": "authentication-bypass-session-management",
+     "type": "page",
+     "contentPath": "content/pentesting-web/authentication bypass & session_management.md",
+     "hasContent": true,
+     "children": [],
+     "tag": "TAG-AUTH01"
+    },
+    {
      "title": "2FA/MFA/OTP Bypass",
      "slug": "pentesting-web-2fa-bypass",
      "type": "page",
