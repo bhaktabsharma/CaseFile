@@ -6059,7 +6059,7 @@ window.SITE_DATA = {
      "slug": "pentesting-web-2fa-bypass",
      "type": "page",
      "contentPath": "content/pentesting-web/2fa-bypass.md",
-     "hasContent": false,
+     "hasContent": true,
      "children": [],
      "tag": "TAG-0650"
     },
