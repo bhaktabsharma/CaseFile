@@ -7437,6 +7437,15 @@ window.SITE_DATA = {
      "tag": "TAG-0800"
     },
     {
+     "title": "DOM-Based-Vulnerabilities",
+     "slug": "pentesting-web-dom-based-vulnerabilities-attacks",
+     "type": "page",
+     "contentPath": "content/pentesting-web/dom-based-vulnerabilities.md",
+     "hasContent": false,
+     "children": [],
+     "tag": "TAG-0801"
+    },
+    {
      "title": "XSS (Cross Site Scripting)",
      "slug": "pentesting-web-xss-cross-site-scripting",
      "type": "page",
