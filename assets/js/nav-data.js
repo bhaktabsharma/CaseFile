@@ -6799,7 +6799,7 @@ window.SITE_DATA = {
      "slug": "pentesting-web-oauth-to-account-takeover",
      "type": "page",
      "contentPath": "content/pentesting-web/oauth-to-account-takeover.md",
-     "hasContent": false,
+     "hasContent": true,
      "children": [],
      "tag": "TAG-0731"
     },
