@@ -2,6 +2,10 @@
 
 A static personal wiki for pentesting/forensics methodologies, payloads, and notes. **No admin panel, no login, no backend** — every topic is a plain `.md` file you edit directly on GitHub. Visitors can only ever *view* the site; the only way to change anything is by pushing to the repo.
 
+## ⚡ Live Website
+
+> **[🔗 View Live Website](https://bhaktabsharma.github.io/CaseFile/)**
+
 ## Folder structure matches the real thing, byte-for-byte
 
 If you're used to browsing `HackTricks-wiki/hacktricks` on GitHub, this repo will feel identical to navigate — same folder names, same file names, same nesting (e.g. `pentesting-web/sql-injection/sqlmap/README.md` and `pentesting-web/sql-injection/sqlmap/second-order-injection-sqlmap.md` are exactly where you'd expect them). That's intentional: folder and file names are just topic/tool labels, not creative writing, so there's nothing wrong with matching them exactly. **The actual write-up text inside each file is 100% original** — none of it is copied from HackTricks or anywhere else, and it never will be, regardless of how the file paths look.
